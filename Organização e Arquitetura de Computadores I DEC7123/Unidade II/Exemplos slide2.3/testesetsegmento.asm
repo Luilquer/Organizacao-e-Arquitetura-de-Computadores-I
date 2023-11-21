@@ -1,0 +1,10 @@
+	.ORG 2000H
+	MVI B, 05H
+	MVI C, CH
+	MOV A, C
+	SUB B
+	LXI H, 46H
+	MVI B, 30H
+	ADD B
+	MOV M, A
+	HLT

@@ -1,0 +1,5 @@
+	.ORG 2000H
+	LXI H, 20C0H
+	MVI M, 20H
+	MVI A, 24H
+	ADD M

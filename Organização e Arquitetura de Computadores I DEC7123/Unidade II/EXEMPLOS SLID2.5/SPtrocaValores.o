@@ -1,0 +1,8 @@
+.ORG 00h 20h
+31h 20h 20h 
+01h 0Eh 0Dh 
+11h 0Ch 0Bh 
+C5h 
+D5h 
+C1h 
+D1h 

@@ -1,0 +1,17 @@
+.ORG 00h 20h
+DBh 00h 
+D6h 30h 
+21h 6Ah 00h 
+77h 
+4Fh 
+DBh 00h 
+D6h 30h 
+21h 6Bh 00h 
+77h 
+41h 
+80h 
+21h 10h 00h 
+77h 
+C6h 30h 
+D3h E001h 
+76h 

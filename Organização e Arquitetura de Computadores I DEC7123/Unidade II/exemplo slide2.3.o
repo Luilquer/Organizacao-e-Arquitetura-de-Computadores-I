@@ -1,0 +1,6 @@
+.ORG D0h 07h
+3Eh 05h 
+0Eh 02h 
+81h 
+C6h 10h 
+76h 
